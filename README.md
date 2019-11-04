@@ -6,7 +6,10 @@ Esta es una aplicación que muestra en consola y escribe en .txt, tablas de mult
 
 Ejecutar este comando
 
-//////
+```
+npm install
+```
+----------
 
 This is an app that shows in console and writes in .txt charts of multiplications. Have options like "base" (the number to be multiplied) and 
 the "limit" (from 1 to ...)
